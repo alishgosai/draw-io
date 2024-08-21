@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="1567" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1800" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -312,6 +312,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="tw0CBn4gDF8c5VPzYqaW-232" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" edge="1" parent="1" source="tw0CBn4gDF8c5VPzYqaW-216" target="tw0CBn4gDF8c5VPzYqaW-231">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1420" y="650" />
+              <mxPoint x="1420" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tw0CBn4gDF8c5VPzYqaW-216" value="Settings" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#09555B;strokeColor=none;fontColor=#EEEEEE;rounded=1;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1260" y="620" width="120" height="60" as="geometry" />
         </mxCell>
@@ -321,7 +329,7 @@
         <mxCell id="tw0CBn4gDF8c5VPzYqaW-220" value="Edit Profile" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#09555B;strokeColor=none;fontColor=#EEEEEE;rounded=1;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1450" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tw0CBn4gDF8c5VPzYqaW-222" value="App Settings" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#09555B;strokeColor=none;fontColor=#EEEEEE;rounded=1;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="tw0CBn4gDF8c5VPzYqaW-222" value="Themes" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#09555B;strokeColor=none;fontColor=#EEEEEE;rounded=1;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1450" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tw0CBn4gDF8c5VPzYqaW-225" value="Security Settings" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#09555B;strokeColor=none;fontColor=#EEEEEE;rounded=1;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
@@ -329,6 +337,9 @@
         </mxCell>
         <mxCell id="tw0CBn4gDF8c5VPzYqaW-228" value="Active Warrenty" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#09555B;strokeColor=none;fontColor=#EEEEEE;rounded=1;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1450" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tw0CBn4gDF8c5VPzYqaW-231" value="Change Password" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#09555B;strokeColor=none;fontColor=#EEEEEE;rounded=1;fontStyle=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
