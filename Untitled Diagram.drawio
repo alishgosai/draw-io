@@ -113,7 +113,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tw0CBn4gDF8c5VPzYqaW-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" edge="1" parent="1" source="tw0CBn4gDF8c5VPzYqaW-126" target="tw0CBn4gDF8c5VPzYqaW-192">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1023" y="380" />
+              <mxPoint x="860" y="380" />
+              <mxPoint x="860" y="550" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tw0CBn4gDF8c5VPzYqaW-126" value="Chat Bot" style="rounded=1;fillColor=#09555B;strokeColor=none;fontColor=#EEEEEE;fontStyle=1;fontFamily=Tahoma;fontSize=14;direction=west;flipH=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="928" y="280" width="190" height="80" as="geometry" />
@@ -200,10 +206,10 @@
           <mxGeometry x="600" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tw0CBn4gDF8c5VPzYqaW-190" value="Recent Chat" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#09555B;strokeColor=none;fontColor=#EEEEEE;rounded=1;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="870" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tw0CBn4gDF8c5VPzYqaW-192" value="Automated Responses" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#09555B;strokeColor=none;fontColor=#EEEEEE;rounded=1;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="870" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
