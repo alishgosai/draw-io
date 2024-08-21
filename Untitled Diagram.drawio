@@ -35,10 +35,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="10" value="Qr Code Scanner" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;direction=west;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="760" y="280" width="190" height="80" as="geometry" />
+          <mxGeometry x="770" y="280" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="12" value="Browse" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;direction=west;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="280" width="190" height="80" as="geometry" />
+          <mxGeometry x="440" y="280" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="13" value="Home" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;direction=west;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="280" width="190" height="80" as="geometry" />
@@ -338,7 +338,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tw0CBn4gDF8c5VPzYqaW-126" value="Chat Bot" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;direction=west;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="280" width="190" height="80" as="geometry" />
+          <mxGeometry x="1100" y="280" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
