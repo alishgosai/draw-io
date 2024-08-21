@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="2015" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,11 +16,41 @@
             <mxPoint x="1943" y="215.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tw0CBn4gDF8c5VPzYqaW-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="10" target="tw0CBn4gDF8c5VPzYqaW-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="10" value="Qr Code Scanner&#xa;(Default Page)" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;direction=west;flipH=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="636" y="280" width="190" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="tw0CBn4gDF8c5VPzYqaW-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12" target="tw0CBn4gDF8c5VPzYqaW-170">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="400" />
+              <mxPoint x="200" y="400" />
+              <mxPoint x="200" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tw0CBn4gDF8c5VPzYqaW-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12" target="tw0CBn4gDF8c5VPzYqaW-173">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="400" />
+              <mxPoint x="200" y="400" />
+              <mxPoint x="200" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tw0CBn4gDF8c5VPzYqaW-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12" target="tw0CBn4gDF8c5VPzYqaW-176">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="400" />
+              <mxPoint x="200" y="400" />
+              <mxPoint x="200" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="12" value="Browse" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;direction=west;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="344" y="280" width="190" height="80" as="geometry" />
+          <mxGeometry x="270" y="280" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tw0CBn4gDF8c5VPzYqaW-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="13" target="tw0CBn4gDF8c5VPzYqaW-150">
           <mxGeometry relative="1" as="geometry">
@@ -122,6 +152,29 @@
         </mxCell>
         <mxCell id="tw0CBn4gDF8c5VPzYqaW-168" value="New products" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#23445D;strokeColor=none;fontColor=#FFFFFF;rounded=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="28" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tw0CBn4gDF8c5VPzYqaW-170" value="Products" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#23445D;strokeColor=none;fontColor=#FFFFFF;rounded=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tw0CBn4gDF8c5VPzYqaW-173" value="Search" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#23445D;strokeColor=none;fontColor=#FFFFFF;rounded=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tw0CBn4gDF8c5VPzYqaW-176" value="Website Link" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#23445D;strokeColor=none;fontColor=#FFFFFF;rounded=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tw0CBn4gDF8c5VPzYqaW-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tw0CBn4gDF8c5VPzYqaW-179" target="tw0CBn4gDF8c5VPzYqaW-182">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="576" y="430" />
+              <mxPoint x="576" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tw0CBn4gDF8c5VPzYqaW-179" value="QR scanner" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#23445D;strokeColor=none;fontColor=#FFFFFF;rounded=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tw0CBn4gDF8c5VPzYqaW-182" value="Warrenty Information" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#23445D;strokeColor=none;fontColor=#FFFFFF;rounded=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
